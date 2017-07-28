@@ -1,1 +1,1 @@
-# andrewsandlin2015
+This wordpress theme is for www.andrewsandlin.com
